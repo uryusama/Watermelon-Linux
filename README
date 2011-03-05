@@ -1,0 +1,12 @@
+Watermelon Linux is free, open source software. It's sctrictly community maintained, with a general set of rules stated below. Failiure to comply with these rules will prevent you from contributing to the Watermelon Linux project.
+
+1. Before setting your files in with the main release, add a tarball of it into the tarball branch of the respitory. This helps back up the distrobution.
+
+2. Do not remove files. I'm not going to explain how to. Leave it too the project leaders please. If you think a file should be removed, either write it on the source forge page forums, explaining why you think it should be removed.
+
+3. Do not mess with the ISO branch. It' for COMPLETED VERSIONS ONLY. For alpha and beta builds, check the other-builds branch.
+
+4. You can aply to be a an administrator on the sourceforge page. It's under the 'roles' category.
+
+*** Sourceforge: https://sourceforge.net/projects/watermelonlinux/ ***
+*** GIT HUB: https://github.com/uryusama/Watermelon-Linux          ***
